@@ -20,7 +20,7 @@ With this workflow you can:
 
 ![](./assets/pypydoc.png)
 
-Don't get interrupted and taken our of your (work) flow.  Immediately get the information you need.
+Don't get interrupted and taken out of your (work) flow.  Immediately get the information you need.
 
 ![](./assets/pydjango.png)
 
