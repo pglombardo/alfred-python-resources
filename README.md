@@ -36,9 +36,9 @@ https://github.com/pglombardo/alfred-python-resources
 
 ## 🛡 License
 
-[![License](https://img.shields.io/github/license/pglombardo/alfred-python-resources)](https://github.com/pglombardo/alfred-python-resources/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/pglombardo/alfred-python-resources)](https://github.com/pglombardo/alfred-python-resources/blob/main/LICENSE.md)
 
-This project is licensed under the terms of the `Apache Software License 2.0` license. See [LICENSE](https://github.com/pglombardo/alfred-python-resources/blob/main/LICENSE) for more details.
+This project is licensed under the terms of the `Apache Software License 2.0` license. See [LICENSE](https://github.com/pglombardo/alfred-python-resources/blob/main/LICENSE.md) for more details.
 
 
 # Author
