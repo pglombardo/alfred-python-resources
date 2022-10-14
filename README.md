@@ -2,7 +2,7 @@
 
 ![](./assets/py.png)
 
-With this workflow you can:
+With this [Alfred](https://www.alfredapp.com) workflow you can:
 
 * **pydoc {query}** - Search Python documentation at docs.python.org
 * **pypi {query}** - Lookup a Python package at pypi.org
