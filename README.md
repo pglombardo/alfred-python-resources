@@ -34,6 +34,10 @@ No setup, login or configuration.
 The source for this workflow can be found at:
 https://github.com/pglombardo/alfred-python-resources
 
+# See Also
+
+* The [Alfred Workflow](https://github.com/pglombardo/pwpush-alfred) for [Password Pusher](https://github.com/pglombardo/PasswordPusher).
+
 ## 🛡 License
 
 [![License](https://img.shields.io/github/license/pglombardo/alfred-python-resources)](https://github.com/pglombardo/alfred-python-resources/blob/main/LICENSE.md)
